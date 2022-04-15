@@ -1,0 +1,2 @@
+# Assignment-15-Random-Forest-Data-Set-Frauadcheck-data
+Use Random Forest to prepare a model on fraud data treating those who have taxable_income &lt;= 30000 as "Risky" and others are "Good" import libraries import dataset EDA data preprocessing converting target variable in categorical variable one hot encoding for categorical variable  model building  model training model testing model evaluation  hyperparameter tunning with grid search cv
